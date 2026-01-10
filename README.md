@@ -12,7 +12,6 @@ I'm a passionate **Computer Science student** who loves building web application
 My focus is on **web development** and **programming fundamentals**, and I truly believe in **learning by doing**.
 
 - 💻 **Interested in:** Software Development & Web Technologies  
-- 🧠 **Currently strengthening:** Data Structures & Algorithms (DSA)  
 - 🌱 **Learning:** Backend Development step by step  
 - 🎯 **Goal:** Become a reliable and skilled software developer  
 
