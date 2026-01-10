@@ -40,7 +40,7 @@ My focus is on **web development** and **programming fundamentals**, and I truly
 
 ## 📈 Currently Working On
 
-- 📚 **Practicing** Data Structures & Algorithms
+
 - 🧩 **Building** backend projects using **Node.js**
 - 🌐 **Improving** frontend skills with clean UI/UX design
 - 📁 **Creating** personal and academic projects
