@@ -75,5 +75,5 @@ My focus areas:
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+⭐ **Thanks for visiting profile!**  
 *Let's build something amazing together.*
