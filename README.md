@@ -67,7 +67,7 @@ My focus areas:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect 
 
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://bigampachhai.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bigampachhai2@gmail.com)
